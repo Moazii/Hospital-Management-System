@@ -1,2 +1,3 @@
 # Hospital-Management-System
-Hospital Management System using php my-SQL database
+I have made Hospital Management System using php my-SQL database
+
